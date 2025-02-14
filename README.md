@@ -6,7 +6,7 @@ Spawn multiple processes and create different worker threads to concurrently sen
 `Nodejs (v18+)`
 
 ## Required Environment Variables
-`PATH_TO_WALLET`: Path to the wallet you want to pass in
+`PATH_TO_WALLET`: Path to the signer wallet you want to pass in to aoconnect
 
 #### To run
 1. `npm install`
